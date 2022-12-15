@@ -2,15 +2,36 @@
 
 ## 요구사항 분석
 ![요구사항_분석](https://user-images.githubusercontent.com/96768840/207750792-86aff260-811f-41ea-ab4d-2b036c976782.jpg)
-## 기술 스택
-### *프론트엔드
-![프론트엔드](https://user-images.githubusercontent.com/96768840/207750832-233dd336-324e-4894-807a-35f43326bbf9.jpg)
-### *백엔드
-![백엔드](https://user-images.githubusercontent.com/96768840/207750834-b25d7b94-a9e3-4a5f-911b-cbc606ceadfa.jpg)
-### *협업툴
-![협업툴](https://user-images.githubusercontent.com/96768840/207750835-71c349d1-a18c-478c-ac47-a2c182b28904.jpg)
-### 노션
+## 프로젝트 개발 환경
+- *SpringBoot*
+- *Tomcat*
+- *Oracle*
+- *AWS*
+- *Thymeleaf*
+- *JavaScript*
+- *jQuery*
+- *HTML5&CSS3*
+
+## 버전
+- *SpringBoot 2.7.5 ver.*
+- *STS 3.9.11*
+- *Gradle (Buildship 3.x)*
+- *Java 11 ver.*
+- *Oracle 11c.*
+- *Apache Tomcat 9.0 ver.*
+- *OJDBC8*
+- ***그 외 Gradle Dependency 사용***
+
+## 협업툴
+### 1. 깃허브
+![깃허브](https://user-images.githubusercontent.com/96768840/207810035-fdb5b923-e760-45e6-9a21-4e5e7b5690e3.jpg)
+![깃허브1](https://user-images.githubusercontent.com/96768840/207810039-0d08a343-e58c-44d3-bb22-cf87e7a6f057.jpg)
+
+### 2. 노션
 <img width="882" alt="image" src="https://user-images.githubusercontent.com/96768840/207756457-3bfeac4d-559e-4377-bc9c-dd117b734e97.png">
+
+![이슈](https://user-images.githubusercontent.com/96768840/207810903-0e31df72-bb73-4fa6-9ea8-a61f0daf9f71.jpg)
+![브레인스토밍](https://user-images.githubusercontent.com/96768840/207810908-97111dbb-2fc3-44a9-bcb1-d7d0b637ca1c.jpg)
 
 ## 담당 역할
 ### 메인 페이지(DatePicker, 검색 기능), 검색 페이지(지도(카카오 맵 API) 구현 / 숙소 목록), CSS 총괄 및 관리
