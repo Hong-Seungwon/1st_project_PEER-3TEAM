@@ -36,22 +36,40 @@
 - ***그 외 Gradle Dependency 사용***
 
 ## 협업툴
-### 1. 깃허브
+<details>
+    <summary>1. 깃허브</summary> 
+ 
 ![깃허브](https://user-images.githubusercontent.com/96768840/207810035-fdb5b923-e760-45e6-9a21-4e5e7b5690e3.jpg)
 ![깃허브1](https://user-images.githubusercontent.com/96768840/207810039-0d08a343-e58c-44d3-bb22-cf87e7a6f057.jpg)
 
-### 2. 노션
+</details>
+
+<details>
+    <summary>2. 노션</summary> 
 <img width="882" alt="image" src="https://user-images.githubusercontent.com/96768840/207756457-3bfeac4d-559e-4377-bc9c-dd117b734e97.png">
 
 ![이슈](https://user-images.githubusercontent.com/96768840/207810903-0e31df72-bb73-4fa6-9ea8-a61f0daf9f71.jpg)
 ![브레인스토밍](https://user-images.githubusercontent.com/96768840/207810908-97111dbb-2fc3-44a9-bcb1-d7d0b637ca1c.jpg)
 
-## 담당 역할
-### 메인 페이지(DatePicker, 검색 기능), 검색 페이지(지도(카카오 맵 API) 구현 / 숙소 목록), CSS 총괄 및 관리
+</details>
 
+## 담당 역할
+- CSS 총괄 및 관리
+<details>
+    <summary>메인 페이지(DatePicker, 검색 기능)</summary>
+    
 ![메인](https://user-images.githubusercontent.com/96768840/207751292-1291fcc8-37d3-4a1f-bf7d-3ba8e4d0867f.jpg)
+
+</details> 
+
+<details>
+    <summary>검색 페이지(지도(카카오 맵 API) 구현 / 숙소 목록)</summary> 
+    
 ![검색결과_지도](https://user-images.githubusercontent.com/96768840/207751276-537b907c-a894-4d27-bb89-4956525302f5.jpg)
 ![검색결과_목록](https://user-images.githubusercontent.com/96768840/207751278-b8e368e7-e7e2-44c0-80f4-5046bf11dd47.jpg)
+    
+</details> 
+
 
 ## 구현한 자료들
 ### [PEER/src/main/java/peer/controller/main/MainController.java](PEER/src/main/java/peer/controller/main/MainController.java)
