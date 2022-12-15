@@ -26,7 +26,6 @@
 ### [PEER/src/main/java/peer/service/main/MainService.java](PEER/src/main/java/peer/service/main/MainService.java)
 ### [PEER/src/main/java/peer/service/main/MainServiceImpl.java](PEER/src/main/java/peer/service/main/MainServiceImpl.java)
 ### [PEER/src/main/resources/static/css](PEER/src/main/resources/static/css)
-### [PEER/src/main/resources/static/js](PEER/src/main/resources/static/js)
 ### [PEER/src/main/resources/static/mapper/Main.xml](PEER/src/main/resources/static/mapper/Main.xml)
 ### [PEER/src/main/resources/templates/main.html](PEER/src/main/resources/templates/main.html)
 ### [PEER/src/main/resources/templates/search.html](PEER/src/main/resources/templates/search.html)
