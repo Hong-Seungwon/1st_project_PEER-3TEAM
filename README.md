@@ -21,11 +21,12 @@
 
 ## 구현한 자료들
 ### [PEER/src/main/java/peer/controller/main/MainController.java](PEER/src/main/java/peer/controller/main/MainController.java)
-### [PEER/src/main/java/peer/dao/main](PEER/src/main/java/peer/dao/main)
-### [PEER/src/main/java/peer/model/main](PEER/src/main/java/peer/model/main)
-### [PEER/src/main/java/peer/service/main](PEER/src/main/java/peer/service/main)
+### [PEER/src/main/java/peer/dao/main/MainMapper.java ](PEER/src/main/java/peer/dao/main/MainMapper.java )
+### [PEER/src/main/java/peer/model/main/MainBean.java](PEER/src/main/java/peer/model/main/MainBean.java)
+### [PEER/src/main/java/peer/service/main/MainService.java](PEER/src/main/java/peer/service/main/MainService.java)
+### [PEER/src/main/java/peer/service/main/MainServiceImpl.java](PEER/src/main/java/peer/service/main/MainServiceImpl.java)
 ### [PEER/src/main/resources/static/css](PEER/src/main/resources/static/css)
-### [PEER/src/main/resources/static/js/search.js ](PEER/src/main/resources/static/js/search.js)
+### [PEER/src/main/resources/static/js](PEER/src/main/resources/static/js)
 ### [PEER/src/main/resources/static/mapper/Main.xml](PEER/src/main/resources/static/mapper/Main.xml)
 ### [PEER/src/main/resources/templates/main.html](PEER/src/main/resources/templates/main.html)
 ### [PEER/src/main/resources/templates/search.html](PEER/src/main/resources/templates/search.html)
