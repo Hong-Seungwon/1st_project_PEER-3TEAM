@@ -20,7 +20,7 @@
 ![검색결과_목록](https://user-images.githubusercontent.com/96768840/207751278-b8e368e7-e7e2-44c0-80f4-5046bf11dd47.jpg)
 
 ## 구현한 자료들
-### [PEER/src/main/java/peer/controller/main](PEER/src/main/java/peer/controller/main)
+### [PEER/src/main/java/peer/controller/main/MainController.java](PEER/src/main/java/peer/controller/main/MainController.java)
 ### [PEER/src/main/java/peer/dao/main](PEER/src/main/java/peer/dao/main)
 ### [PEER/src/main/java/peer/model/main](PEER/src/main/java/peer/model/main)
 ### [PEER/src/main/java/peer/service/main](PEER/src/main/java/peer/service/main)
