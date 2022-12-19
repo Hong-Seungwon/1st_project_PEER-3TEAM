@@ -18,6 +18,7 @@
 ## 프로젝트 개발 환경
 - *SpringBoot*
 - *Gradle*
+- *Bootstrap*
 - *Tomcat*
 - *Oracle*
 - *AWS*
@@ -34,6 +35,7 @@
 - *Oracle 11c.*
 - *Apache Tomcat 9.0 ver.*
 - *OJDBC8*
+- *Bootstrap 5.x*
 - ***그 외 Gradle Dependency 사용***
 
 ## 협업툴
