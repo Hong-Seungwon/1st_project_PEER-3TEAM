@@ -17,6 +17,7 @@
 
 ## 프로젝트 개발 환경
 - *SpringBoot*
+- *Gradle*
 - *Tomcat*
 - *Oracle*
 - *AWS*
