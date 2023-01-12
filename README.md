@@ -74,7 +74,7 @@
 </details> 
 
 
-## 구현한 자료들
+## 구현한 코드 목록
 ### [PEER/src/main/java/peer/controller/main/MainController.java](PEER/src/main/java/peer/controller/main/MainController.java)
 ### [PEER/src/main/java/peer/dao/main/MainMapper.java ](PEER/src/main/java/peer/dao/main/MainMapper.java )
 ### [PEER/src/main/java/peer/model/main/MainBean.java](PEER/src/main/java/peer/model/main/MainBean.java)
