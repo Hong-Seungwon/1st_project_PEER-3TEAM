@@ -57,7 +57,7 @@
 </details>
 
 ## 담당 역할
-### CSS 총괄 및 관리
+### Front-end 담당
 <details>
     <summary>메인 페이지(DatePicker, 검색 기능)</summary>
     
