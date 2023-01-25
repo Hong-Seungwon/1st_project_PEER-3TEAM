@@ -2,9 +2,9 @@
 ## 목차
 - [요구사항 분석](#요구사항-분석)
 
-- [프로젝트 개발 환경](#프로젝트-개발-환경)
+- [ERD](#erd)
 
-- [버전](#버전)
+- [프로젝트 개발 환경](#프로젝트-개발-환경)
 
 - [협업툴](#협업툴)
 
@@ -15,27 +15,23 @@
 ## 요구사항 분석
 ![요구사항_분석](https://user-images.githubusercontent.com/96768840/207750792-86aff260-811f-41ea-ab4d-2b036c976782.jpg)
 
+## ERD
+<img width="669" alt="image" src="https://user-images.githubusercontent.com/96768840/214507925-711067be-7027-4843-88af-aaffb21d69d9.png">
+<img width="669" alt="image" src="https://user-images.githubusercontent.com/96768840/214507998-ea8a33e0-493c-482e-a021-b7dd3f5d23c6.png">
+
 ## 프로젝트 개발 환경
-- *SpringBoot*
-- *Gradle*
-- *Bootstrap*
-- *Tomcat*
-- *Oracle*
+- *SpringBoot 2.7.5 ver.*
+- *STS 3.9.11*
+- *Gradle (Buildship 3.x)*
+- *Bootstrap 5.x*
+- *Apache Tomcat 9.0 ver.*
+- *Java 11 ver.*
+- *Oracle 11c.*
 - *AWS*
 - *Thymeleaf*
 - *JavaScript*
 - *jQuery*
 - *HTML5&CSS3*
-
-## 버전
-- *SpringBoot 2.7.5 ver.*
-- *STS 3.9.11*
-- *Gradle (Buildship 3.x)*
-- *Java 11 ver.*
-- *Oracle 11c.*
-- *Apache Tomcat 9.0 ver.*
-- *OJDBC8*
-- *Bootstrap 5.x*
 - ***그 외 Gradle Dependency 사용***
 
 ## 협업툴
